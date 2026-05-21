@@ -1,0 +1,6 @@
+{
+  "name": "Call Analyzer",
+  "description": "A premium, futuristic call history analyzer in obsidian dark theme, with real-time statistics, multi-period filters, custom charts, and Gemini neural insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
